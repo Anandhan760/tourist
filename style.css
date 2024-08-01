@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+.main-part
+{
+    margin-left: 250px;
+
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type:none ;
+
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+    list-style-type: none;
+    margin-left: 300px;
+
+}
+.subsec-1 h1{
+    background-color: green;
+    color: white;
+    right: 50cap;
+}
+.subsec-1 h2{
+    color: red;
+    margin-left: 500px;
+}
